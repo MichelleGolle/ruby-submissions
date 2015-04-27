@@ -289,9 +289,6 @@ submissions:
   Tyler Graham
     repository: https://github.com/tgraham777/master_mind
     notes: '(filled in by instructor)'
-=======
-    repository: your_github_repo_url
-    notes: |
       1. Fundamental Ruby & Style
         Score: 3
         * indentation
