@@ -15,13 +15,18 @@ submissions:
     repository:
     notes: ""
   Kristina Brown:
+<<<<<<< HEAD:1502/authentication_rails.yml
     repository:
     notes:
+=======
+    repository: https://github.com/kristinabrown/point-box
+    notes: https://enigmatic-springs-4476.herokuapp.com
+>>>>>>> a1aa45cea885601c2bc424600f3b794f312618eb:1502/05_rails_mini_project.yml
   Kyle Henson:
     repository:
     notes: ""
   Michelle Golle:
-    repository: https://github.com/MichelleGolle/my-jams
+    repository: https://github.com/MichelleGolle/ideabox
     notes: ""
   Mihir Parikh:
     repository:
@@ -33,7 +38,11 @@ submissions:
     repository:
     notes: ""
   Tess Griffin:
+<<<<<<< HEAD:1502/authentication_rails.yml
     repository:
+=======
+    repository: https://github.com/tessgriffin/point_box
+>>>>>>> a1aa45cea885601c2bc424600f3b794f312618eb:1502/05_rails_mini_project.yml
     notes: ""
   Thomas Leskin:
     repository:
